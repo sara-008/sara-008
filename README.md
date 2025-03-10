@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @sara-008
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning frontend development 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Sara
+- 👀 I’m interested in Web designing 
+- 🌱 I’m currently learning frontend  development 
+- 📫 How to reach me :https://www.linkedin.com/in/sara-hashmi-2831a1347
+
 
 <!---
 sara-008/sara-008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
